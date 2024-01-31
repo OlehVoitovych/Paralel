@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "voitovych_lab3_2/1.0.0": {
+        "dependencies": {
+          "ScottPlot": "4.1.67",
+          "System.Drawing.Common": "8.0.0-rc.1.23419.5"
+        },
+        "runtime": {
+          "voitovych_lab3_2.dll": {}
+        }
+      },
+      "Microsoft.Win32.SystemEvents/8.0.0-rc.1.23419.4": {
+        "runtime": {
+          "lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.41904"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.41904"
+          }
+        }
+      },
+      "ScottPlot/4.1.67": {
+        "dependencies": {
+          "System.Drawing.Common": "8.0.0-rc.1.23419.5",
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/net6.0/ScottPlot.dll": {
+            "assemblyVersion": "4.1.67.0",
+            "fileVersion": "4.1.67.0"
+          }
+        }
+      },
+      "System.Drawing.Common/8.0.0-rc.1.23419.5": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "8.0.0-rc.1.23419.4"
+        },
+        "runtime": {
+          "lib/net6.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.41905"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {}
+    }
+  },
+  "libraries": {
+    "voitovych_lab3_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Win32.SystemEvents/8.0.0-rc.1.23419.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-O24zLigy+/i/CjXvCyzpZDIYpg1qTmgh3zWoFvd8QvobvAlKWsczwkRELe2mm9uQbSmP8DptLw088ducgXiSAg==",
+      "path": "microsoft.win32.systemevents/8.0.0-rc.1.23419.4",
+      "hashPath": "microsoft.win32.systemevents.8.0.0-rc.1.23419.4.nupkg.sha512"
+    },
+    "ScottPlot/4.1.67": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Gdfr4NlbAPJ612JJ0FaF6uKJuO7aThtdgXo8wQ7BmSi65x10RxEux57CiijeMWAEwjx9p9tlFlqE/mjVBc+Luw==",
+      "path": "scottplot/4.1.67",
+      "hashPath": "scottplot.4.1.67.nupkg.sha512"
+    },
+    "System.Drawing.Common/8.0.0-rc.1.23419.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0EepFskHve8itdic76LHleAbVDCTGEgm5xnl8cwp+9d0TRU4ftcFsFiWsC1HKGe7VZN1fHKvRj9xOUJk5G8LRA==",
+      "path": "system.drawing.common/8.0.0-rc.1.23419.5",
+      "hashPath": "system.drawing.common.8.0.0-rc.1.23419.5.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u5iLl48O+mkk+nUK5KtE6Sy6ieza0ZGM6AHXEc0yppF7s9jS4DTckIlIBPI86PZk0Y6/svHfwM9fxiDsUcqBHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oleh\\Documents\\GitHub\\2023\\voitovych_lab3_2\\voitovych_lab3_2\\voitovych_lab3_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oleh\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-rc.1.23419.4\\microsoft.win32.systemevents.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "C:\\Users\\Oleh\\.nuget\\packages\\scottplot\\4.1.67\\scottplot.4.1.67.nupkg.sha512",
+    "C:\\Users\\Oleh\\.nuget\\packages\\system.drawing.common\\8.0.0-rc.1.23419.5\\system.drawing.common.8.0.0-rc.1.23419.5.nupkg.sha512",
+    "C:\\Users\\Oleh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

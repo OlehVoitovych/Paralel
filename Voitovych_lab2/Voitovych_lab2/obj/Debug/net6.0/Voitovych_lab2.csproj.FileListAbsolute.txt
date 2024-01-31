@@ -1,0 +1,15 @@
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\bin\Debug\net6.0\Voitovych_lab2.exe
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\bin\Debug\net6.0\Voitovych_lab2.deps.json
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\bin\Debug\net6.0\Voitovych_lab2.runtimeconfig.json
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\bin\Debug\net6.0\Voitovych_lab2.dll
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\bin\Debug\net6.0\Voitovych_lab2.pdb
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\obj\Debug\net6.0\Voitovych_lab2.csproj.AssemblyReference.cache
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\obj\Debug\net6.0\Voitovych_lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\obj\Debug\net6.0\Voitovych_lab2.AssemblyInfoInputs.cache
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\obj\Debug\net6.0\Voitovych_lab2.AssemblyInfo.cs
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\obj\Debug\net6.0\Voitovych_lab2.csproj.CoreCompileInputs.cache
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\obj\Debug\net6.0\Voitovych_lab2.dll
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\obj\Debug\net6.0\refint\Voitovych_lab2.dll
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\obj\Debug\net6.0\Voitovych_lab2.pdb
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\obj\Debug\net6.0\Voitovych_lab2.genruntimeconfig.cache
+C:\Users\Oleh\Documents\GitHub\2023\Voitovych_lab2\Voitovych_lab2\obj\Debug\net6.0\ref\Voitovych_lab2.dll
